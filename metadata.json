@@ -1,0 +1,5 @@
+{
+  "name": "QuaCK - Quantify Cyber Knowledge",
+  "description": "A quantitative risk management tool to model cybersecurity scenarios, calculate annualized loss expectancy (ALE), and measure return on security investment (ROSI). QuaCK helps you quantify cyber knowledge.",
+  "requestFramePermissions": []
+}
