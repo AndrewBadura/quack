@@ -8,6 +8,7 @@ WORKDIR /app
 COPY package.json ./
 
 # Install any needed packages
+RUN npm --version
 RUN npm install
 
 # Copy the rest of the application's source code from the host to the image's filesystem
