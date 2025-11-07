@@ -63,14 +63,11 @@ const Footer: React.FC = () => {
                     <FooterLink href="https://www.linkedin.com/in/andrewbadura/" text="LinkedIn">
                         <LinkedInIcon />
                     </FooterLink>
-                    <FooterLink href="https://quack.wherd.xyz/" text="QuaCK App">
-                        <QuaCKIcon />
+                    <FooterLink href="https://github.com/AndrewBadura/quack" text="GitHub">
+                        <GitHubIcon />
                     </FooterLink>
                     <FooterLink href="https://andrewbadura.github.io/" text="CV">
                         <CVIcon />
-                    </FooterLink>
-                    <FooterLink href="https://github.com/AndrewBadura/quack" text="GitHub">
-                        <GitHubIcon />
                     </FooterLink>
                 </div>
             </div>
